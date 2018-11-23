@@ -1,3 +1,6 @@
 .idea/
 node_modules/
 package-lock.json
+config/default.json
+config/dev.json
+config/test.json
